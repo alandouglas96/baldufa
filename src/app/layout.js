@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Linktree Replica',
-  description: 'Linktree Replica',
+  title: 'Baldufa',
+  description: 'Baldufa',
 }
 
 export default function RootLayout({ children }) {
